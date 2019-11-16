@@ -6,5 +6,11 @@ A simple lua game for a zombie shooter, built with a bit of [love](https://love2
 - Install [Love](https://love2d.org/)
 - Clone this repo and cd into it
 - Run love inside the repo
-  
-  /Applications/love.app/Contents/MacOS/love .
+
+```
+/Applications/love.app/Contents/MacOS/love .
+```
+
+## Preview
+
+[![Watch the video](https://github.com/arriqaaq/chennaijones/blob/master/extras/chennaijones.gif)](https://github.com/arriqaaq/chennaijones/blob/master/extras/chennaijones.gif)
